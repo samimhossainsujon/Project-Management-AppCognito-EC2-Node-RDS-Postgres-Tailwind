@@ -13,11 +13,13 @@
     "@emotion/styled": "^11.14.0",
     "@mui/material": "^6.4.1",
     "@mui/x-data-grid": "^7.24.0",
+    "@types/numeral": "^2.0.5",
+    "@types/uuid": "^10.0.0",
     "axios": "^1.7.9",
     "date-fns": "^4.1.0",
     "gantt-task-react": "^0.3.9",
     "lucide": "^0.473.0",
-    "next": "15.1.5",
+    "next": "15.1.6",
     "numeral": "^2.0.6",
     "react": "^19.0.0",
     "react-dnd": "^16.0.1",
@@ -27,16 +29,13 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20.17.14",
-    "@types/numeral": "^2.0.5",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "@types/uuid": "^10.0.0",
+    "@types/node": "^20",
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
     "eslint": "^9",
-    "eslint-config-next": "15.1.5",
+    "eslint-config-next": "15.1.6",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  },
-  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0"
+  }
 }
